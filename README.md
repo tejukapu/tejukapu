@@ -1,30 +1,52 @@
 # 💫 About Me:
-🔭 I’m currently working on portfolio E-commerce project as a Mern-stack developer<br>  👯 I’m looking to collaborate on desired teams<br>  🤝 I’m looking for help to get job as a full stack developer, where I can <br>       utilize my skills in real-time projects.<br>  🌱 I’m currently learning React, JavaScript to build responsive projects<br>  💬 Ask me about how I did this About page,<br>  ⚡ "Fun fact: My GitHub profile is like a treasure trove, showcasing my journey as a Full Stack Web Developer. It's a collection of countless commits, collaborative projects, and lines of code that come together to create a digital reflection of my passion for building innovative web solutions."
+🔭 DevOps & Cloud Engineer with 2.5+ years of experience in automating, deploying and managing scalable infrastructure  
+☁️ Hands-on experience with AWS cloud services and containerized environments  
+🚀 Passionate about CI/CD, Kubernetes, Cloud Architecture and Infrastructure as Code  
+👯 I’m looking to collaborate on real-time DevOps and Cloud projects  
+🤝 Actively seeking opportunities as a DevOps Engineer / Cloud Engineer  
+🌱 Currently learning advanced Kubernetes, AWS architecture and automation best practices  
+💬 Ask me about CI/CD pipelines, Docker, Kubernetes, Jenkins, AWS, and Linux  
+⚡ Fun fact: I enjoy converting complex manual setups into one-click automated deployments  
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ravi-teja-b25725249/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/2btgr5e) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Raviteja-Raviteja-14) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Same-Ability3339) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21178146) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-teja-011718397)  
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21178146)  
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Same-Ability3339)  
 
 # 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=github-actions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tejukapu&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=tejukapu&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tejukapu&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=tejukapu&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=tejukapu&theme=nightowl&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tejukapu&theme=nightowl&hide_border=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tejukapu&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=tejukapu&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=tejukapu&icon=7&color=1)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://bmc.link/tejuk1357a) 
+## 📌 Highlight Projects
+- 🚀 End-to-end CI/CD pipeline using Jenkins, Maven, Docker, and AWS ECR  
+- ☸️ Kubernetes (EKS) deployment with auto-scaling and rolling updates  
+- ☁️ Cloud-native architecture on AWS using EC2, ECR, EKS and ALB  
+- 🔐 Secure HTTPS setup using AWS ALB and ACM  
+- 🐳 Containerized applications deployed on Kubernetes  
+- 🔁 GitHub Webhook based automated build and deployment  
+- 🛠️ Infrastructure provisioning using Terraform (Infrastructure as Code)
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎯 Career Focus
+- DevOps Engineering  
+- Cloud Engineering (AWS)  
+- Kubernetes & Container Orchestr
